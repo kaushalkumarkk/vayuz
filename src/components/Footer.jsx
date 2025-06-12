@@ -58,7 +58,7 @@ const Footer = () => {
         </div>
 
       {/* Bottom Links */}
-      <div className="flex flex-wrap justify-start gap-8 text-sm text-gray-400 border-t border-gray-700 pt-6">
+      <div className="flex flex-wrap justify-start gap-8 text-sm text-gray-400 pt-6">
         <a href="#" className="hover:text-white">About</a>
         <a href="#" className="hover:text-white">Insights</a>
         <a href="#" className="hover:text-white">Community</a>
