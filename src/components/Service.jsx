@@ -34,7 +34,7 @@ const ServicesSection = () => {
       </div>
 
       <div className="flex flex-col md:flex-row gap-10">
-        {/* Accordion */}
+        
         <div className="md:w-1/2 space-y-6">
           {services.map((service, index) => (
             <div key={index}>

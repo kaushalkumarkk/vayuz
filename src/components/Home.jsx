@@ -28,23 +28,23 @@ const Home = () => {
             <img src={codeImage} alt="Flutter Code" className="rounded-lg w-full" />
           </div>
         </div>
-        {/* ----------- FLUTTER DAWN SECTION ----------- */}
+       
         <section className="w-full px-4 md:px-2 py-10 md:py-30 bg-black text-white flex flex-col md:flex-row items-center gap-8">
 
-          {/* Center Heading */}
+          
           <div className="md:w-1/4 text-center md:text-left">
             <h2 className="text-3xl font-bold leading-tight">Flutter's Dawn</h2>
             <p className="text-gray-300 mt-1">History of flutter</p>
           </div>
 
-          {/* Right Content */}
+        
           <div className="md:w-1/2 space-y-4">
             <p className="text-gray-300">
               Uncover the fascinating story of Flutter in ‘Flutter’s Dawn: History of Flutter.’ From humble origins to global acclaim, delve into its captivating narrative. Explore milestones, triumphs, and challenges. Whether tech enthusiast or curious mind, join us on this captivating journey! <a href="#" className="text-cyan-400 hover:underline">Click to begin!</a>
             </p>
           </div>
 
-          {/* CTA Button */}
+         
           <div className="md:w-auto mt-4 md:mt-0">
             <button className="bg-cyan-500 hover:bg-cyan-600 text-white px-6 py-2 rounded-full flex items-center gap-2">
               BEGIN

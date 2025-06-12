@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer className="bg-black text-white px-6 md:px-16 py-12">
+    <footer className="bg-black text-white px-6 md:px-1 py-12">
       {/* Top Navigation */}
       <div className="flex flex-wrap justify-start gap-8 mb-8 text-sm text-gray-300">
         <a href="#" className="hover:text-white">Events</a>
